@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/eli/projects/pcb/triangle_ws2816_revA/triangle_ws2816_revA.kicad_sch</source>
+    <date>2023 November 09, Thursday 19:01:09</date>
+    <tool>Eeschema 7.0.1-0</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Triangle Test  (WS2816B-2121)</title>
+        <company>Chroma.tech</company>
+        <rev>A</rev>
+        <date/>
+        <source>triangle_ws2816_revA.kicad_sch</source>
+        <comment number="1" value="Author: Eli McNutt"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_01x03</value>
+      <footprint>Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d73575ea-7763-448e-bc77-ad4abeb9ad92</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x03</value>
+      <footprint>Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93c02b50-5b55-4133-8950-a2de42b1c8f3</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1f3a1bd-7312-48ea-904e-a19a896eb395</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>659f53a1-6ff4-4b41-b290-13fd921210d1</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b92e95f5-9d65-4b54-97a7-cdd275d92a04</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc2ed517-3cec-4c9e-a01f-2af093faa577</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>baa6bfa3-5fc0-4dd0-ad16-21f9857ba734</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b300102-2374-4647-bf07-1cedd598af68</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5406e84-f453-4971-a121-148b4814ebe3</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6a523a0-4aab-44fe-a4c8-8cc5d8d70caf</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0851501e-5fa6-4818-af40-63738ed55303</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f083bcfe-bbbb-4b62-a7ad-d74c65ce49eb</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0185cd0e-1052-45ac-be47-de4ab0134656</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27fb6e52-f153-406a-8932-5cffa16cc69e</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb0e203c-7fff-45cf-9819-270c666d2239</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39f25757-3077-4ad7-a176-f82b95bae091</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69f7eb29-2c7f-4f99-a986-0439140c8f32</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca6d89a9-b707-42b7-b94b-5577e79b0d5f</tstamps>
+    </comp>
+    <comp ref="U17">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2fb1def-4969-4e39-a3c5-fdc752a218eb</tstamps>
+    </comp>
+    <comp ref="U18">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9de4cf0d-c9f8-4007-99e9-68f32a44725c</tstamps>
+    </comp>
+    <comp ref="U19">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8089383f-6157-4f96-acce-c4e3816fd23f</tstamps>
+    </comp>
+    <comp ref="U20">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee5642c9-978d-410f-bf64-35d70771d27d</tstamps>
+    </comp>
+    <comp ref="U21">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f25b847f-e4b0-428c-ad63-eb28407ecbe3</tstamps>
+    </comp>
+    <comp ref="U22">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef85096f-15c0-476b-9f5b-9c23f331d8d6</tstamps>
+    </comp>
+    <comp ref="U23">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ccfd05d-4b87-40bd-8087-160c902a9b55</tstamps>
+    </comp>
+    <comp ref="U24">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db4f0085-c25c-4d09-86b9-a2732957bd3a</tstamps>
+    </comp>
+    <comp ref="U25">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8effb05f-b581-4cd5-a01b-1a11224c9e6f</tstamps>
+    </comp>
+    <comp ref="U26">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbe754dd-9a2e-45a7-8c5a-00dd33013c44</tstamps>
+    </comp>
+    <comp ref="U27">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9dd0002c-3ecc-452c-84da-f95105eaf846</tstamps>
+    </comp>
+    <comp ref="U28">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f451eb0f-7e17-44c0-899a-e3fa0352533a</tstamps>
+    </comp>
+    <comp ref="U29">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>416b2adc-c597-42d9-8b0e-bb23bac31619</tstamps>
+    </comp>
+    <comp ref="U30">
+      <value>WS2816B-2121</value>
+      <footprint>LED_SMD:LED_WS2816B-2121_2.1x2.1mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</datasheet>
+      <libsource lib="Driver_LED" part="WS2816B-2121" description="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="triangle_ws2816_revA.kicad_sch"/>
+      <property name="ki_description" value="Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS "/>
+      <property name="ki_keywords" value="LED current driver"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0e6e7bf-298c-4c21-a391-c2079a9632dc</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_LED" part="WS2816B-2121">
+      <description>Positive post -25℃~+85℃ RGB 120° 250mW SMD,2.2x2.2mm Light Emitting Diodes (LED) ROHS </description>
+      <docs>https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</docs>
+      <footprints>
+        <fp>TSSOP*4.4x6.5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">WS2816B-2121</field>
+        <field name="Footprint">LED_SMD:LED_WS2816B-2121_2.1x2.1mm</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2012110135_Worldsemi-WS2816B-2121_C965560.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BI" type="input"/>
+        <pin num="2" name="DI" type="input"/>
+        <pin num="3" name="VDD" type="input"/>
+        <pin num="4" name="DO" type="output"/>
+        <pin num="5" name="BO" type="output"/>
+        <pin num="6" name="GND" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Driver_LED">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Driver_LED.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U10" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U11" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U12" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U13" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U14" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U15" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U16" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U17" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U18" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U19" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U20" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U21" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U22" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U23" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U24" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U25" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U26" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U27" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U28" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U29" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U30" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U6" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U7" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U8" pin="3" pinfunction="VDD" pintype="input"/>
+      <node ref="U9" pin="3" pinfunction="VDD" pintype="input"/>
+    </net>
+    <net code="2" name="DIN">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="BI" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U10" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U11" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U12" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U13" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U14" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U15" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U16" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U17" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U18" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U19" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U20" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U21" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U22" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U23" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U24" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U25" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U26" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U27" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U28" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U29" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U30" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U4" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U5" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U6" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U7" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U8" pin="6" pinfunction="GND" pintype="input"/>
+      <node ref="U9" pin="6" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(U1-BO)">
+      <node ref="U1" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U2" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(U1-DO)">
+      <node ref="U1" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U2" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(U2-BO)">
+      <node ref="U2" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U3" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(U2-DO)">
+      <node ref="U2" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U3" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(U3-BO)">
+      <node ref="U3" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U4" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(U3-DO)">
+      <node ref="U3" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U4" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(U4-BO)">
+      <node ref="U4" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U5" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(U4-DO)">
+      <node ref="U4" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U5" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(U5-BO)">
+      <node ref="U5" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U6" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(U5-DO)">
+      <node ref="U5" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U6" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(U6-BO)">
+      <node ref="U6" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U7" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(U6-DO)">
+      <node ref="U6" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U7" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(U7-BO)">
+      <node ref="U7" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U8" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(U7-DO)">
+      <node ref="U7" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U8" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(U8-BO)">
+      <node ref="U8" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U9" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(U8-DO)">
+      <node ref="U8" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U9" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(U10-BI)">
+      <node ref="U10" pin="1" pinfunction="BI" pintype="input"/>
+      <node ref="U9" pin="5" pinfunction="BO" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(U10-BO)">
+      <node ref="U10" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U11" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(U10-DI)">
+      <node ref="U10" pin="2" pinfunction="DI" pintype="input"/>
+      <node ref="U9" pin="4" pinfunction="DO" pintype="output"/>
+    </net>
+    <net code="23" name="Net-(U10-DO)">
+      <node ref="U10" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U11" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(U11-BO)">
+      <node ref="U11" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U12" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(U11-DO)">
+      <node ref="U11" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U12" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="26" name="Net-(U12-BO)">
+      <node ref="U12" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U13" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(U12-DO)">
+      <node ref="U12" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U13" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(U13-BO)">
+      <node ref="U13" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U14" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(U13-DO)">
+      <node ref="U13" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U14" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(U14-BO)">
+      <node ref="U14" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U15" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(U14-DO)">
+      <node ref="U14" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U15" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(U15-BO)">
+      <node ref="U15" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U16" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="33" name="Net-(U15-DO)">
+      <node ref="U15" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U16" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(U16-BO)">
+      <node ref="U16" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U17" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="35" name="Net-(U16-DO)">
+      <node ref="U16" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U17" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(U17-BO)">
+      <node ref="U17" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U18" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(U17-DO)">
+      <node ref="U17" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U18" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(U18-BO)">
+      <node ref="U18" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U19" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(U18-DO)">
+      <node ref="U18" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U19" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(U19-BO)">
+      <node ref="U19" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U20" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="41" name="Net-(U19-DO)">
+      <node ref="U19" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U20" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(U20-BO)">
+      <node ref="U20" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U21" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(U20-DO)">
+      <node ref="U20" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U21" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(U21-BO)">
+      <node ref="U21" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U22" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(U21-DO)">
+      <node ref="U21" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U22" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(U22-BO)">
+      <node ref="U22" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U23" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(U22-DO)">
+      <node ref="U22" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U23" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(U23-BO)">
+      <node ref="U23" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U24" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(U23-DO)">
+      <node ref="U23" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U24" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(U24-BO)">
+      <node ref="U24" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U25" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(U24-DO)">
+      <node ref="U24" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U25" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(U25-BO)">
+      <node ref="U25" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U26" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(U25-DO)">
+      <node ref="U25" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U26" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="54" name="Net-(U26-BO)">
+      <node ref="U26" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U27" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="55" name="Net-(U26-DO)">
+      <node ref="U26" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U27" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(U27-BO)">
+      <node ref="U27" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U28" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="57" name="Net-(U27-DO)">
+      <node ref="U27" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U28" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(U28-BO)">
+      <node ref="U28" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U29" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="59" name="Net-(U28-DO)">
+      <node ref="U28" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U29" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="60" name="Net-(U29-BO)">
+      <node ref="U29" pin="5" pinfunction="BO" pintype="output"/>
+      <node ref="U30" pin="1" pinfunction="BI" pintype="input"/>
+    </net>
+    <net code="61" name="Net-(U29-DO)">
+      <node ref="U29" pin="4" pinfunction="DO" pintype="output"/>
+      <node ref="U30" pin="2" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="62" name="unconnected-(J2-Pin_2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U30-BO-Pad5)">
+      <node ref="U30" pin="5" pinfunction="BO" pintype="output+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(U30-DO-Pad4)">
+      <node ref="U30" pin="4" pinfunction="DO" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
